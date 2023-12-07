@@ -1,4 +1,4 @@
-from duty.objects import Event, ExceptToJson, dp
+from duti.objects import Event, ExceptToJson, dp
 from microvk import VkApiResponseException
 from logger import get_writer
 from .app import app, DEBUG
